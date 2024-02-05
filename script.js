@@ -13,7 +13,7 @@ function updateBody()
      }
      else
      {
-        body.style.background = "white";
+        body.style.background = "green";
      }
 }
 

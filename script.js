@@ -9,7 +9,7 @@ function updateBody()
 {
      if(input.checked)
      {
-        body.style.background = "blue";
+        body.style.background = "red";
      }
      else
      {
